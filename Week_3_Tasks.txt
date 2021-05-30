@@ -1,0 +1,12 @@
+Week 3: 
+This week to do:
+
+- Read chapter 6 from the GIT book (Links to an external site.) about GitHub
+
+- Last week you signed up for a GitHub account. This week you will update any small text file to GitHub and publish the location in this week's discussion post.
+
+- Read chapter 2 from the text book.
+
+- Read and start to think about Project 1. I will include a test step file format for you to use in the "Files" section.
+
+- Start working on Project 1
